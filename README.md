@@ -20,7 +20,7 @@ voices = Musa::MIDIVoices.new sequencer: transport.sequencer, output: output, ch
 transport = Musa::Transport.new clock, 1, 24
 
 transport.sequencer.with do
-	Musa::REPL.new binding
+  Musa::REPL.new binding
 end
 
 transport.start
