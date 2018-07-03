@@ -1,6 +1,6 @@
 # musa-dsl-atom-repl
 
-An Atom package to allow a Read-Eval-Print-Loop connected with a Musa-DSL REPL server.
+An Atom package to allow a Read-Eval-Print-Loop connected to a Musa-DSL REPL server.
 
 [Musa-DSL](https://github.com/javier-sy/musa-dsl) is a Ruby Domain Specific Language for algorithmic musical composition.
 
