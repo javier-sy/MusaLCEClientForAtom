@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-enter": "musa-dsl-atom-repl:send",
+    "ctrl-alt-m": "musa-dsl-atom-repl:toggle"
+  }
+}

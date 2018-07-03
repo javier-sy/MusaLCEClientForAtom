@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Send to Musa-DSL",
+        "command": "musa-dsl-atom-repl:send"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Musa-DSL REPL",
+          "submenu": [
+            {
+              "label": "Send to Musa-DSL",
+              "command": "musa-dsl-atom-repl:send"
+            },
+            {
+              "label": "Toggle Musa-DSL REPL Status View",
+              "command": "musa-dsl-atom-repl:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
