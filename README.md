@@ -27,3 +27,9 @@ transport.start
 ```
 
 This opens a REPL socket in localhost:1327. musa-dsl-atom-repl package automatically connects to this default server.
+
+Keystrokes inside Atom:
+
+* *Ctrl-Alt-M:* opens the Musa-DSL REPL Status panel. This panel shows the responses from the server when it evals the commands sent from the Atom client.
+
+* *Ctrl-Alt-Return:* sends current selection or current line (if nothing is selected) to Musa-DSL REPL server. The response is shown in Musa-DSL REPL Status panel.
