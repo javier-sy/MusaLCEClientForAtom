@@ -1,7 +1,7 @@
 {
   "name": "musa-dsl-atom-repl",
   "main": "./lib/musa-dsl-atom-repl",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Atom package for REPL Musa-DSL live coding",
   "keywords": [
     "musa-dsl", "live coding", "music composition", "repl"
