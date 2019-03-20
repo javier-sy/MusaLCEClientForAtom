@@ -1,7 +1,7 @@
 {
   "name": "musa-dsl-atom-repl",
   "main": "./lib/musa-dsl-atom-repl",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Atom package for REPL Musa-DSL live coding",
   "keywords": [
     "musa-dsl",
@@ -15,7 +15,7 @@
       "musa-dsl-atom-repl:toggle"
     ]
   },
-  "repository": "https://github.com/javier-sy/musa-dsl-atom-repl",
+  "repository": "https://github.com/javier-sy/musa-dsl-atom-repl.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
